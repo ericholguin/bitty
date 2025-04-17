@@ -2,7 +2,7 @@
 
 <img src="./assets/bitty-logo.png" alt="Bitty Logo" title="bitty logo" width="256"/>
 
-# Bitty
+# bitty
 
 Lightning-fast bitcoin to fiat conversions
 
